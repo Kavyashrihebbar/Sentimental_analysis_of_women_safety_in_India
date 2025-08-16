@@ -74,4 +74,4 @@ python women_safety_analysis.py
   
 ---
 ## Author
-Apoorva MCA Student NMAMIT,Nitte
+Kavyashri Hebbar Manipal Institute of Technology, Manipal
